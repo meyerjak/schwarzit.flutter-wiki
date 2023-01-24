@@ -66,11 +66,13 @@ They can be mixed
 
 [[Example]]
 [[Example#Header]]
+[[Example|go to example]]
 
 - Start with `[[`
 - Add the name of the `file` to link to
 - Add a `#` and the name of the `section` 
 	- The section must already exitst
+- Add a `|` and the new `text` if you want to change the text shown by the link
 
 ---
 
